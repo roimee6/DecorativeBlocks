@@ -1,0 +1,8 @@
+name: DecorativeBlocks
+main: DecorativeBlocks\Main
+
+src-namespace-prefix: DecorativeBlocks
+
+author: MaXoooZ
+api: [ 5.0.0 ]
+version: 1.0.0
